@@ -61,7 +61,7 @@ BOARD_BOOTIMAGE_PARTITION_SIZE := 4194304
 BOARD_FLASH_BLOCK_SIZE := 262144
 
 TARGET_KERNEL_SOURCE := kernel/htc/msm7x30
-TARGET_KERNEL_CONFIG := cyanogenmod_vivow_defconfig
+TARGET_KERNEL_CONFIG := cyanogen_vivow_defconfig
 
 TARGET_RELEASETOOLS_EXTENSIONS := device/htc/common
 TARGET_PREBUILT_KERNEL := device/htc/vivow/prebuilt/kernel
